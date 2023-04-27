@@ -1,0 +1,113 @@
+['abstract_algebra', 'anatomy', 'astronomy', 'business_ethics', 'clinical_knowledge', 'college_biology', 'college_chemistry', 'college_computer_science', 'college_mathematics', 'college_medicine', 'college_physics', 'computer_security', 'conceptual_physics', 'econometrics', 'electrical_engineering', 'elementary_mathematics', 'formal_logic', 'global_facts', 'high_school_biology', 'high_school_chemistry', 'high_school_computer_science', 'high_school_european_history', 'high_school_geography', 'high_school_government_and_politics', 'high_school_macroeconomics', 'high_school_mathematics', 'high_school_microeconomics', 'high_school_physics', 'high_school_psychology', 'high_school_statistics', 'high_school_us_history', 'high_school_world_history', 'human_aging', 'human_sexuality', 'international_law', 'jurisprudence', 'logical_fallacies', 'machine_learning', 'management', 'marketing', 'medical_genetics', 'miscellaneous', 'moral_disputes', 'moral_scenarios', 'nutrition', 'philosophy', 'prehistory', 'professional_accounting', 'professional_law', 'professional_medicine', 'professional_psychology', 'public_relations', 'security_studies', 'sociology', 'us_foreign_policy', 'virology', 'world_religions']
+Namespace(data_dir='data', engine=['llama'], ntrain=5, save_dir='results')
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Loading
+Loaded in 71.99 seconds
+llama
+Average accuracy 0.270 - abstract_algebra
+Average accuracy 0.378 - anatomy
+Warning: ▁A not found. Artificially adding log prob of -100.
+Average accuracy 0.349 - astronomy
+Average accuracy 0.400 - business_ethics
+Average accuracy 0.343 - clinical_knowledge
+Average accuracy 0.375 - college_biology
+Average accuracy 0.300 - college_chemistry
+Average accuracy 0.310 - college_computer_science
+Average accuracy 0.340 - college_mathematics
+Average accuracy 0.329 - college_medicine
+Average accuracy 0.225 - college_physics
+Average accuracy 0.450 - computer_security
+Average accuracy 0.362 - conceptual_physics
+Average accuracy 0.272 - econometrics
+Average accuracy 0.234 - electrical_engineering
+Average accuracy 0.265 - elementary_mathematics
+Average accuracy 0.254 - formal_logic
+Average accuracy 0.310 - global_facts
+Average accuracy 0.329 - high_school_biology
+Warning: ▁C not found. Artificially adding log prob of -100.
+Average accuracy 0.286 - high_school_chemistry
+Average accuracy 0.340 - high_school_computer_science
+Average accuracy 0.376 - high_school_european_history
+Average accuracy 0.333 - high_school_geography
+Average accuracy 0.451 - high_school_government_and_politics
+Average accuracy 0.344 - high_school_macroeconomics
+Average accuracy 0.256 - high_school_mathematics
+Average accuracy 0.319 - high_school_microeconomics
+Average accuracy 0.291 - high_school_physics
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Average accuracy 0.475 - high_school_psychology
+Average accuracy 0.333 - high_school_statistics
+Warning: ▁A not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁A not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Average accuracy 0.397 - high_school_us_history
+Average accuracy 0.443 - high_school_world_history
+Average accuracy 0.395 - human_aging
+Average accuracy 0.359 - human_sexuality
+Average accuracy 0.512 - international_law
+Average accuracy 0.417 - jurisprudence
+Average accuracy 0.429 - logical_fallacies
+Average accuracy 0.277 - machine_learning
+Average accuracy 0.330 - management
+Average accuracy 0.449 - marketing
+Average accuracy 0.380 - medical_genetics
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Average accuracy 0.425 - miscellaneous
+Average accuracy 0.396 - moral_disputes
+Average accuracy 0.242 - moral_scenarios
+Average accuracy 0.395 - nutrition
+Average accuracy 0.399 - philosophy
+Average accuracy 0.346 - prehistory
+Average accuracy 0.266 - professional_accounting
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁A not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Warning: ▁B not found. Artificially adding log prob of -100.
+Warning: ▁C not found. Artificially adding log prob of -100.
+Warning: ▁D not found. Artificially adding log prob of -100.
+Average accuracy 0.299 - professional_law
+Average accuracy 0.445 - professional_medicine
+Average accuracy 0.353 - professional_psychology
+Average accuracy 0.400 - public_relations
+Average accuracy 0.335 - security_studies
+Average accuracy 0.453 - sociology
+Average accuracy 0.450 - us_foreign_policy
+Average accuracy 0.349 - virology
+Average accuracy 0.497 - world_religions
+Average accuracy: 0.352
