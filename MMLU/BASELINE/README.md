@@ -1,4 +1,7 @@
 # A LLaMA-7B Test on MMLU
+~~~
+torchrun --master_port XXXX --nproc_per_node 1 evaluate.py
+~~~
 
 # Measuring Massive Multitask Language Understanding
 This is the repository for [Measuring Massive Multitask Language Understanding](https://arxiv.org/pdf/2009.03300) by
